@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pop-hip
 - 👀 I’m interested in music
 - 🌱 I’m currently learning code lol
-- 💞️ I’m looking to collaborate on music implementation
+- 💞️ I’m looking to collaborate on music implementation in videogames
 - 📫 How to reach me @paulinjouhet on instagram
 
 <!---
